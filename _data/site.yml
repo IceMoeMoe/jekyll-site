@@ -1,6 +1,6 @@
 head: 
-   favicon: "icemoe.moe/assets/images/Domain/D-IM16.jpg" #  the favicon
-   high_res_favicon: "icemoe.moe/assets/images/Domain/D-IM16.jpg" #  the favicon using high quality format
+   favicon: "assets/images/Domain/D-IM16.jpg" #  the favicon
+   high_res_favicon: "assets/images/Domain/D-IM16.jpg" #  the favicon using high quality format
    apple_touch_icon: "https://ooo.0o0.ooo/2017/06/08/5939484dc618e.png" # the iOS Home button icon
    keywords: "冷筱华, 游戏, 个人网站, 摸鱼, 冷萌萌, 5d chess" #  the site keywords
 
@@ -14,7 +14,7 @@ background:
    purecolor: "#eeeeee" # the background color
 
 img: 
-   avatar: "icemoe.moe/assets/images/Domain/D-IM16.jpg" # your avatar
+   avatar: "assets/images/Domain/D-IM16.jpg" # your avatar
 
 card: 
    card_shadow: 1 # card shadow (0-24), 0 is not displayed
