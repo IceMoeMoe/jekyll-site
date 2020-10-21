@@ -45,8 +45,8 @@ comment:
   # gitment config
   owner: "IceMoeMoe"
   repo: "Gitment-Data"
-  client_id: "d52888841cb5d9e015e1"
-  client_secret: "e9e44ed1a6a82653e34c8e4d2d029911512c224c"
+  client_id: "65afb6c07010d1b64d3c"
+  client_secret: "e30ae10f304038da6f59ed86b3d549830d808514"
   #valine config
   valine_app_id: ''
   valine_app_key: ''
