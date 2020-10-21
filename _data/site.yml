@@ -1,6 +1,6 @@
 head: 
-   favicon: "assets/images/Domain/D-IM16.jpg" #  the favicon
-   high_res_favicon: "assets/images/Domain/D-IM16.jpg" #  the favicon using high quality format
+   favicon: "/assets/images/Domain/D-IM16.jpg" #  the favicon
+   high_res_favicon: "/assets/images/Domain/D-IM16.jpg" #  the favicon using high quality format
    apple_touch_icon: "https://ooo.0o0.ooo/2017/06/08/5939484dc618e.png" # the iOS Home button icon
    keywords: "冷筱华, 游戏, 个人网站, 摸鱼, 冷萌萌, 5d chess" #  the site keywords
 
@@ -14,7 +14,7 @@ background:
    purecolor: "#eeeeee" # the background color
 
 img: 
-   avatar: "assets/images/Domain/D-IM16.jpg" # your avatar
+   avatar: "/assets/images/Domain/D-IM16.jpg" # your avatar
 
 card: 
    card_shadow: 1 # card shadow (0-24), 0 is not displayed
@@ -32,7 +32,7 @@ sns_share: # SNS Share Switch
    telegram: true
 
 comment:
-  used: "" # disqus,livere,gitment,valine
+  used: "gitment" # disqus,livere,gitment,valine
   # disqus config
   disqus_shortname: "lxh-wxdt" # Your disqus 
   disqus_button: true # disqus load button
@@ -43,10 +43,10 @@ comment:
   livere_type: 'city'
   livere_data_uid: ''
   # gitment config
-  owner: ""
-  repo: ""
-  client_id: ""
-  client_secret: ""
+  owner: "IceMoeMoe"
+  repo: "Gitment-Data"
+  client_id: "d52888841cb5d9e015e1"
+  client_secret: "e9e44ed1a6a82653e34c8e4d2d029911512c224c"
   #valine config
   valine_app_id: ''
   valine_app_key: ''
