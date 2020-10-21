@@ -1,8 +1,8 @@
 head: 
-   favicon: "https://ooo.0o0.ooo/2017/05/27/59294212bc16e.png" #  the favicon
-   high_res_favicon: "https://ooo.0o0.ooo/2017/06/08/5939484dc618e.png" #  the favicon using high quality format
+   favicon: "icemoe.moe\assets\images\Domain\D-IM16.jpg" #  the favicon
+   high_res_favicon: "icemoe.moe\assets\images\Domain\D-IM16.jpg" #  the favicon using high quality format
    apple_touch_icon: "https://ooo.0o0.ooo/2017/06/08/5939484dc618e.png" # the iOS Home button icon
-   keywords: "blog jekyll mdui theme" #  the site keywords
+   keywords: "冷筱华, 游戏, 个人网站, 摸鱼, 冷萌萌, 5d chess" #  the site keywords
 
 uiux:
    android_chrome_color: "#eeeeee" #  the color of the Chrome address bar
@@ -14,7 +14,7 @@ background:
    purecolor: "#eeeeee" # the background color
 
 img: 
-   avatar: "https://ooo.0o0.ooo/2017/05/26/5928368d409dd.png" # your avatar
+   avatar: "icemoe.moe\assets\images\Domain\D-IM16.jpg" # your avatar
 
 card: 
    card_shadow: 1 # card shadow (0-24), 0 is not displayed
@@ -34,7 +34,7 @@ sns_share: # SNS Share Switch
 comment:
   used: "" # disqus,livere,gitment,valine
   # disqus config
-  disqus_shortname: "" # Your disqus 
+  disqus_shortname: "lxh-wxdt" # Your disqus 
   disqus_button: true # disqus load button
   disqus_proxy: false # # disqus proxy(Do not use)
   disqus_proxy_url: "" # (Do not use)

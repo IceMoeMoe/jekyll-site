@@ -1,11 +1,11 @@
 - name: bilibili
-  url: 
+  url: https://space.bilibili.com/1490905
 
 - name: facebook
   url: 
 
 - name: github
-  url: https://github.com
+  url: 
 
 - name: gplus
   url: 
@@ -17,16 +17,16 @@
   url: 
 
 - name: telegram
-  url: https://web.telegram.org
+  url: 
 
 - name: tumblr
   url: 
 
 - name: twitter
-  url: https://twitter.com/
+  url: 
 
 - name: weibo
-  url: 
+  url: https://weibo.com/u/3199386607
 
 - name: zhihu
-  url: 
+  url: https://www.zhihu.com/people/IceCute
