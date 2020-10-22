@@ -3,7 +3,7 @@ layout: post
 title: 【短篇科幻】拉维亚的太阳（续写）
 date: 2020-10-22 22:31:20 +0800
 categories: 小说
-tags: 
+tags: 科幻 小说 短篇
 img: 
 ---
 拉维亚的太阳（续写）
