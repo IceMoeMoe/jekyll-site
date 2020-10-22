@@ -2,7 +2,7 @@
 layout: post
 title: 【明日方舟】黄铁行动霜冻废墟第二轮15级
 date: 2020-10-22 21:54:43 +0800
-categories: 游戏
+categories: Game
 tags: arknights 明日方舟 游戏 手机游戏
 img: 
 describe: 用于添加tags的实例
