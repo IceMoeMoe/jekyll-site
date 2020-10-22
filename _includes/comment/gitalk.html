@@ -10,7 +10,8 @@
             owner: '{{ site.data.site.comment.gitalk.owner }}',
             admin: {{ site.data.site.comment.gitalk.admin | jsonify }},
             id: '{{ page.id }}',
-            distractionFreeMode: false
+            distractionFreeMode: false,
+            title: '{{ page.title }}'
         });
         gitalk.render('comments');
     }, 1000);
