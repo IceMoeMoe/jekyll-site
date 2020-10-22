@@ -55,12 +55,10 @@ jQuery(document).ready(function($) {
         NProgress.start();
 	});
 	History.Adapter.bind(window, 'statechange', function(){
-    var flag = 0;
     var State = History.getState();
 		$.get(State.url, function(data){
         $('.mdui-tooltip').remove();
         $(".mdui-container").fadeOut(300,function(){
-          if (flag++>0)return;
             const content = $(data).find('.content');
             $('.container').html($(content));
             document.title = data.match(/<title>(.*?)<\/title>/)[1];
