@@ -3,7 +3,7 @@ layout: post
 title: 【5DCHESS】5D Chess规则入门
 date: 2020-10-22 12:17:39 +0800
 categories: Game
-tags: 
+tags: 5dchess game
 img: assets/images/Utopia/5d-01.jpg
 describe: 5D Chess规则入门
 ---
