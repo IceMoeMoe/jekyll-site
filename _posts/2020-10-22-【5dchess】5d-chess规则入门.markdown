@@ -5,6 +5,7 @@ date: 2020-10-22 12:17:39 +0800
 categories: Game
 tags: 
 img: assets/images/Utopia/5d-01.jpg
+describe: 5D Chess规则入门
 ---
 
 ## 传统棋子国际象棋走法
