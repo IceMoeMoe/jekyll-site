@@ -22,7 +22,7 @@ header:
 
 background: # Meng background
   switch: true
-  background_img: "/assets/images/Utopia/reversedtime.jpg"
+  background_img: "/assets/images/Utopia/akns-1st.jpg"
   transparent_header: true
   transparent_footer: false
   text_color: '#000'
@@ -53,7 +53,7 @@ music_player:
 
 head_card:
   switch: false
-  left_img: "https://ooo.0o0.ooo/2017/06/19/5947b272d418b.jpg"
-  left_text: "『 · 如果真爱有颜色 』"
+  left_img: "/assets/images/Utopia/akns-cgpz.png"
+  left_text: "『 · 罗德岛采购部唯一指定网站（并不） 』"
   right_img: "https://ooo.0o0.ooo/2017/06/08/5939484dc618e.png"
   offset_level: 2
