@@ -9,8 +9,8 @@
             repo: '{{ site.data.site.comment.gitalk.repo }}',
             owner: '{{ site.data.site.comment.gitalk.owner }}',
             admin: {{ site.data.site.comment.gitalk.admin }},
-            id: '{{ page.title }}',      // Ensure uniqueness and length less than 50
-            distractionFreeMode: false  // Facebook-like distraction free mode
+            id: '{{ page.title }}',
+            distractionFreeMode: false
         });
         gitalk.render('comments');
     }, 1000);
