@@ -46,7 +46,7 @@ music_player:
   player: "aplayer" #cplayer or aplayer
   button_color: "#1abc9c"
   music:
-    title: 'Reversed Time'
+   - title: 'Reversed Time'
     author: '塞壬唱片-MSR'
     url: 'https://music.163.com/song/media/outer/url?id=1436614177.mp3'
     pic: 'http://p1.music.126.net/UXMjt2DLm7N2NCuW1NbXoA==/109951164860965324.jpg'
