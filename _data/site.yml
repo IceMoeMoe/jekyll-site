@@ -32,7 +32,7 @@ sns_share: # SNS Share Switch
    telegram: true
 
 comment:
-  used: "gitment" # disqus,livere,gitment,valine
+  used: "gitalk" # disqus,livere,gitment,valine,gitalk
   # disqus config
   disqus_shortname: "lxh-wxdt" # Your disqus 
   disqus_button: true # disqus load button
