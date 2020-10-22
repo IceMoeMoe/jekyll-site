@@ -5,7 +5,7 @@ date: 2020-10-22 11:13:14 +0800
 categories: Living
 tags: common
 img: 
-describe:个人简介兼技术测试
+describe:个人简介兼技术测试（警告，侦测到bug）
 ---
 ## 个人简介
 	权限验证通过，正在调取资料……
