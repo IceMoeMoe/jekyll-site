@@ -9,7 +9,7 @@
             repo: '{{ site.data.site.comment.gitalk.repo }}',
             owner: '{{ site.data.site.comment.gitalk.owner }}',
             admin: {{ site.data.site.comment.gitalk.admin | jsonify }},
-            id: '{{ page.title }}',
+            id: '{{ page.id }}',
             distractionFreeMode: false
         });
         gitalk.render('comments');
