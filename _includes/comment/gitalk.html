@@ -8,7 +8,7 @@
             clientSecret: '{{ site.data.site.comment.gitalk.client_secret }}',
             repo: '{{ site.data.site.comment.gitalk.repo }}',
             owner: '{{ site.data.site.comment.gitalk.owner }}',
-            admin: {{ site.data.site.comment.gitalk.admin }},
+            admin: {{ site.data.site.comment.gitalk.admin | jsonify }},
             id: '{{ page.title }}',
             distractionFreeMode: false
         });
