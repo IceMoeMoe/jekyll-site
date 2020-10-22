@@ -7,3 +7,6 @@
 .mdui-card-media img, .mdui-card-media video {
     width: 100% !important;
 }
+.container .content {
+    color: white;
+}
