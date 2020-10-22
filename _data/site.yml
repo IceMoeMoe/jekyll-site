@@ -47,10 +47,17 @@ comment:
   repo: "Gitment-Data"
   client_id: "65afb6c07010d1b64d3c"
   client_secret: "e30ae10f304038da6f59ed86b3d549830d808514"
-  #valine config
+  # valine config
   valine_app_id: ''
   valine_app_key: ''
   valine_placeholder: "ヾﾉ≧∀≦)o来啊，快活啊!"
+  # gitalk config
+  gitalk:
+    client_id: "65afb6c07010d1b64d3c"
+    client_secret: "e30ae10f304038da6f59ed86b3d549830d808514"
+    repo: "Gitalk-Data"
+    owner: "IceMoeMoe"
+    admin: ["Android-KitKat", "shakugannosaints"]
 
 prism:
   themes: prism-okaidia
