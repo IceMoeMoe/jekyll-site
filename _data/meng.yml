@@ -48,8 +48,8 @@ music_player:
   music:
     title: 'Reversed Time'
     author: '塞壬唱片-MSR'
-    url: 'https://icemoe.moe/assets/music/reversedtime.mp3'
-    pic: '/assets/images/domain/reversedtime.jpg'
+    url: 'https://music.163.com/song/media/outer/url?id=1436614177.mp3'
+    pic: 'http://p1.music.126.net/UXMjt2DLm7N2NCuW1NbXoA==/109951164860965324.jpg'
 
 head_card:
   switch: true
