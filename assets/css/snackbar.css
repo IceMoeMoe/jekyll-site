@@ -69,6 +69,7 @@
   padding: 0px;
   min-width: min-content;
   outline: 0px;
+  cursor: pointer;
 }
 
 /* Everything from here down is actually just for the demo - the material buttons and card, and various other pieces of styling */
