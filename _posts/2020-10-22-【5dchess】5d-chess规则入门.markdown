@@ -53,7 +53,7 @@ l：时间线坐标。白方开线记为正，黑方开线记为负，初始时�
 ## 5dchess棋子走法
 
 	注意：所有棋子均可按照传统走法行动，参照“传统棋子国际象棋走法”。以下内容为额外规则。
-	
+
 兵：可以沿着“前进”方向行动1格，第一步可以走两格 `白为l-1/-2，黑为l+1/+2，第一步也可以l±1的同时y+1` 。同时，兵可以进行（白方为例） `l+1同时t+1` 的超物理斜向吃子。
 
 车：可以沿着回合轴或者时间线移动 `l+a或t+a` 。
@@ -72,4 +72,4 @@ l：时间线坐标。白方开线记为正，黑方开线记为负，初始时�
 
 视频包含以上所有内容。
 
-https://www.bilibili.com/video/BV1hy4y1C7p6/
+<iframe src="//player.bilibili.com/player.html?aid=797426208&bvid=BV1hy4y1C7p6&cid=244757985&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
