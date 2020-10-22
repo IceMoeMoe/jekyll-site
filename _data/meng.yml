@@ -55,5 +55,5 @@ head_card:
   switch: true
   left_img: "/assets/images/Utopia/akns-cgpz.png"
   left_text: "『 · 罗德岛采购部唯一指定网站（并不） 』"
-  right_img: "https://ooo.0o0.ooo/2017/06/08/5939484dc618e.png"
+  right_img: "/assets/images/Utopia/akns-awbc.png"
   offset_level: 2
