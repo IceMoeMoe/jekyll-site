@@ -72,4 +72,4 @@ l：时间线坐标。白方开线记为正，黑方开线记为负，初始时�
 
 视频包含以上所有内容。
 
-<iframe src="//player.bilibili.com/player.html?aid=797426208&bvid=BV1hy4y1C7p6&cid=244757985&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=797426208&bvid=BV1hy4y1C7p6&cid=244757985&page=1" width="800" height="450" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
