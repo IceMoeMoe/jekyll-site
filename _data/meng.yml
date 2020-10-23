@@ -62,10 +62,10 @@ music_player:
       author: 'ReoNa'
       url: 'http://music.163.com/song/media/outer/url?id=1455699833.mp3'
       pic: 'http://p1.music.126.net/gIm8pVP53ocFydSrmNvODw==/109951165065046024.jpg'      
-    - title: 'Ready?'
-      author: 'D.D.D./塞壬唱片-MSR'
-      url: 'http://music.163.com/song/media/outer/url?id=1396561141.mp3'
-      pic: 'http://p2.music.126.net/4g5YQSscZTrdbsujFejSiA==/109951164423258740.jpg'          
+    - title: '霜叶在哼什么歌'
+      author: 'VO大自然'
+      url: 'http://music.163.com/song/media/outer/url?id=1376489113.mp3'
+      pic: 'http://p2.music.126.net/ubyM1VqrWaj2i2-yvmVKpQ==/109951164198459222.jpg'          
 head_card:
   switch: true
   left_img: "/assets/images/Utopia/akns-cgpz.png"
