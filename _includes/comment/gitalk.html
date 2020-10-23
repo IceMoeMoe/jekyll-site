@@ -15,7 +15,8 @@
             id: '{{ page.name | split:"." | first }}',
             {% endif %}
             distractionFreeMode: false,
-            title: '{{ page.title }}'
+            title: '{{ page.title }}',
+            createIssueManually: true
         });
         gitalk.render('comments');
     }, 1000);
