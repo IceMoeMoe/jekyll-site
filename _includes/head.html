@@ -51,7 +51,7 @@ jQuery(document).ready(function($) {
             tagid = e.currentTarget.id.replace(/tag_/,"");
         }
 		e.preventDefault();
-		History.pushState({}, "", this.pathname);
+		this.pathname == location.pathname ? $(window).trigger('statechange') : History.pushState({}, "", this.pathname);
         NProgress.start();
 	});
 	History.Adapter.bind(window, 'statechange', function(){
