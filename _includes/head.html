@@ -63,8 +63,8 @@ jQuery(document).ready(function($) {
             $('.container').html($(content));
             document.title = data.match(/<title>(.*?)<\/title>/)[1];
             defaultTitle = document.title;
+            $('meta[name="description"]').attr('content', data.match(/<meta name="description" content="(.*?)">/)[1]);
             NProgress.done();
-            $('meta[name="description"]').attr('content', $(data).find('meta[name="description"]').attr('content'));
             $('#k-menus').html($(data).find('#k-menus').children());
             $('#k-mobile-menus').html($(data).find('#k-mobile-menus').children());
             $(".content").css('top','50px');
