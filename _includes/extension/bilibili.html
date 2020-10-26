@@ -1,0 +1,17 @@
+{% capture scale %}{{ include.scale | default: "16:9" | split: ":" }}{% endcapture %}
+<div style="padding-top: {{ scale[1] | divided_by: scale[0] | times: 100 }}%;
+            position: relative;">
+    <iframe style="position: absolute;
+                   width: 100%;
+                   height: 100%;
+                   left: 0;
+                   top: 0;"
+            src="//player.bilibili.com/player.html
+                 ?high_quality=1
+                 {% if include.av %}&aid={{ include.av }}{% endif %}
+                 {% if include.bv %}&bvid={{ include.bv }}{% endif %}
+                 {% if include.cid %}&cid={{ include.cid }}{% endif %}
+                 {% if include.p %}&page={{ include.p }}{% endif %}"
+            scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true">
+    </iframe>
+</div>
