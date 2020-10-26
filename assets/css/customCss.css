@@ -4,6 +4,9 @@
 #toc a {
     color: white !important;
 }
+.mdui-card-media {
+    overflow: hidden;
+}
 .mdui-card-media img, .mdui-card-media video {
     width: 100% !important;
 }
