@@ -68,7 +68,7 @@ music_player:
       pic: 'http://p2.music.126.net/ubyM1VqrWaj2i2-yvmVKpQ==/109951164198459222.jpg'          
 head_card:
   switch: true
-  left_img: "/assets/images/Utopia/akns-ep8-nhgm.png"
-  left_text: 『 阿米娅，这世上不该有所谓“命运”  』
+  left_img: "/assets/images/Utopia/akns-cgpz.png"
+  left_text: 『 罗德岛采购部唯一指定采购平台 』
   right_img: "/assets/images/Domain/akns-amiya.jpg"
   offset_level: 2
