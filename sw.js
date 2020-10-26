@@ -14,7 +14,7 @@ const CACHE_NAMESPACE = 'main-'
 const CACHE = CACHE_NAMESPACE + 'precache-then-runtime';
 const PRECACHE_LIST = [
   "./",
-  "./404.html",
+  "./offline.html",
   "./assets/js/History.js",
   "./assets/js/snackbar.js",
   "./assets/js/sw-registration.js",
