@@ -1,0 +1,15 @@
+---
+layout: post
+title: 【5DCHESS】e4兵开局实例
+date: 2020-11-10 19:38:39 +0800
+categories: Game
+tags: 5dchess 游戏
+img: /assets/images/Utopia/5d-01.jpg
+describe: e4兵开局的实例
+---
+
+## 图片棋谱
+
+![20201110193315_1.jpg](https://i.loli.net/2020/11/10/qc59tEpsPuJjDXn.jpg)
+
+![20201110193318_1.jpg](https://i.loli.net/2020/11/10/wrIqPWRe8tnVlx1.jpg)
