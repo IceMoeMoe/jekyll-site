@@ -1,0 +1,13 @@
+---
+layout: post
+title: 【5DCHESS】e4兵开局的实战复盘
+date: 2020-11-10 19:38:39 +0800
+categories: Game
+tags: 5dchess 游戏
+img: /assets/images/Utopia/5d-01.jpg
+describe: e4兵开局的实战复盘
+---
+
+# 视频内容 #
+
+{% include extension/bilibili.html bv="BV1zT4y1F7f7" %}
