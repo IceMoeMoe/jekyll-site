@@ -1,0 +1,27 @@
+---
+layout: post
+title: 【5dchess】网络对局-2020-11-26
+date: 2020-11-26 19:18:39 +0800
+categories: Game
+tags: 5dchess 游戏
+img: /assets/images/Utopia/5d-01.jpg
+describe: 网络对局
+---
+
+## 图片棋谱
+
+【对局一】
+
+![20201126190846_1.jpg](https://i.loli.net/2020/11/26/JyDed4jr1aUTtxA.jpg)
+
+![20201126190848_1.jpg](https://i.loli.net/2020/11/26/IEC5fwcAZGpj28B.jpg)
+
+![20201126190850_1.jpg](https://i.loli.net/2020/11/26/tSEHsifYuLahgKB.jpg)
+
+【对局二】
+
+
+
+![20201126181216_1.jpg](https://i.loli.net/2020/11/26/EAisawHn4bFYKR3.jpg)
+
+![20201126181218_1.jpg](https://i.loli.net/2020/11/26/fE9p4rlt12ySiPu.jpg)
