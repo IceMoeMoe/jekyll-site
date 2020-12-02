@@ -22,7 +22,7 @@ header:
 
 background: # Meng background
   switch: true
-  background_img: "/assets/images/Utopia/akns-1st.jpg"
+  background_img: "https://sm.ms/image/BfqDghAvijmkI8G"
   transparent_header: true
   transparent_footer: false
   text_color: '#000'
