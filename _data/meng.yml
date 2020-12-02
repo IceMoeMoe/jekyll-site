@@ -22,7 +22,7 @@ header:
 
 background: # Meng background
   switch: true
-  background_img: "https://sm.ms/image/BfqDghAvijmkI8G"
+  background_img: "https://i.loli.net/2020/12/02/BfqDghAvijmkI8G.jpg"
   transparent_header: true
   transparent_footer: false
   text_color: '#000'
