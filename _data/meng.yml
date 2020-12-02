@@ -59,7 +59,7 @@ music_player:
       url: 'http://music.163.com/song/media/outer/url?id=1403774122.mp3'
       pic: 'http://p2.music.126.net/slodr8c8GhxdkgaHnA1jCg==/109951164497982814.jpg'         
 head_card:
-  switch: true
+  switch: false
   left_img: "/assets/images/Utopia/akns-cgpz.png"
   left_text: 『 罗德岛采购部唯一指定采购平台 』
   right_img: "/assets/images/Domain/akns-amiya.jpg"
