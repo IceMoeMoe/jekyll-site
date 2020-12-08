@@ -43,7 +43,7 @@ live2d: # live2d ,see https://github.com/EYHN/hexo-helper-live2d
   offset: 10 # offset
 
 music_player:
-  player: "aplayer" #cplayer or aplayer
+  player: "" #cplayer or aplayer(use a player)
   button_color: "#1abc9c"
   music:
     - title: '春弦'
