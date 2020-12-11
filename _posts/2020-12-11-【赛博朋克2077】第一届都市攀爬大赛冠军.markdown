@@ -1,0 +1,14 @@
+---
+layout: post
+title: 【赛博朋克2077】夜之城第一届都市攀爬大赛冠军
+date: 2020-12-11 14:32:43 +0800
+categories: Game
+tags: 赛博朋克2077 2077 整活
+img: 
+describe: 2077视频
+---
+
+
+## 夜之城第一届都市攀爬大赛冠军
+
+{% include extension/bilibili.html bv="BV1at4y1Y7pP" %}
