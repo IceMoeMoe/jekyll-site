@@ -1,0 +1,51 @@
+---
+layout: post
+title: 【5dchess】网络对局-2020-12-16
+date: 2020-12-16 18:33:56 +0800
+categories: Game
+tags: 5dchess 游戏 棋谱
+img: /assets/images/Utopia/5d-01.jpg
+describe: 网络对局
+---
+
+## 图片棋谱
+
+对局取自2020年12月9日至12月16日
+
+（注意：部分为本地研究内容，非在线对战）
+
+【对局一】
+
+![20201209185709_1.jpg](https://i.loli.net/2020/12/16/ZlOj9ArePKcIYfS.jpg)
+
+![20201209192319_1.jpg](https://i.loli.net/2020/12/16/dJRLuClB1YzTANm.jpg)
+
+![20201209192324_1.jpg](https://i.loli.net/2020/12/16/qCxtru5KDWkghiL.jpg)
+
+![20201209192322_1.jpg](https://i.loli.net/2020/12/16/A1BvnFOUfKW5DdJ.jpg)
+
+【对局二】
+
+![20201209192943_1.jpg](https://i.loli.net/2020/12/16/E4o2NSxUjwWQpL8.jpg)
+
+【对局三】
+
+![20201209230808_1.jpg](https://i.loli.net/2020/12/16/1Gwxt4NsiJEW5SK.jpg)
+
+【对局四】
+
+![20201215020713_1.jpg](https://i.loli.net/2020/12/16/mAhpFVcveX2WrB9.jpg)
+
+![20201215020715_1.jpg](https://i.loli.net/2020/12/16/FtXS7E2zB8qaQYU.jpg)
+
+![20201215020717_1.jpg](https://i.loli.net/2020/12/16/vbTugAEkceWHMJU.jpg)
+
+【对局五】
+
+![20201216182917_1.jpg](https://i.loli.net/2020/12/16/4OkLK6c1NtT9ozm.jpg)
+
+【对局6】
+
+![20201216182649_1.jpg](https://i.loli.net/2020/12/16/w2S9mnsUJ6QaPt7.jpg)
+
+![20201216182654_1.jpg](https://i.loli.net/2020/12/16/q5yX9zFM6gJIUC3.jpg)
