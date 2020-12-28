@@ -1,0 +1,15 @@
+---
+layout: post
+title: 【5DCHESS】d4兵开局的一些研究与一个有趣的反f7应对
+date: 2020-12-28 19:03:19 +0800
+categories: Game
+tags: 5dchess 游戏
+img: /assets/images/Utopia/5d-01.jpg
+describe: d4兵开局的一些研究与一个有趣的反f7应对
+---
+
+# 视频内容 #
+
+{% include extension/bilibili.html bv="BV1Jy4y1i7da" %}
+
+{% include extension/bilibili.html bv="BV1Rv41147Ud" %}
