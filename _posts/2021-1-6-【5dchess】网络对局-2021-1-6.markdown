@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【5dchess】FD战术的首次正式使用-2021-1-6
-date: 2020-12-16 18:33:56 +0800
+date: 2021-1-6 18:33:56 +0800
 categories: Game
 tags: 5dchess 游戏 棋谱
 img: /assets/images/Utopia/5d-01.jpg
