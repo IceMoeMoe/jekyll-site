@@ -1,13 +1,15 @@
 <div id="tcomment"></div>
 <script src="https://cdn.jsdelivr.net/npm/twikoo@1.0.0/dist/twikoo.all.min.js"></script>
 <script>
-  let initData = {
-    el: '#tcomment',
-    envId: '{{ site.data.site.comment.twikoo.envId }}',
-    region: '{{ site.data.site.comment.twikoo.region }}'
-  };
-  {% if site.data.site.comment.twikoo.option and site.data.site.comment.twikoo.option != '' %}
-  initData = Object.assign(initData, JSON.parse('{{ site.data.site.comment.twikoo.option }}'));
-  {% endif %}
-  twikoo.init(initData);
+  setTimeout(function () {
+    let initData = {
+      el: '#tcomment',
+      envId: '{{ site.data.site.comment.twikoo.envId }}',
+      region: '{{ site.data.site.comment.twikoo.region }}'
+    };
+    {% if site.data.site.comment.twikoo.option and site.data.site.comment.twikoo.option != '' %}
+    initData = Object.assign(initData, JSON.parse('{{ site.data.site.comment.twikoo.option }}'));
+    {% endif %}
+    twikoo.init(initData);
+  }, 1000);
 </script>
