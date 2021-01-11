@@ -32,7 +32,7 @@ sns_share: # SNS Share Switch
    telegram: true
 
 comment:
-  used: "gitalk" # disqus,livere,gitment,valine,gitalk,twikoo
+  used: "twikoo" # disqus,livere,gitment,valine,gitalk,twikoo
   # disqus config
   disqus_shortname: "lxh-wxdt" # Your disqus 
   disqus_button: true # disqus load button
@@ -59,8 +59,8 @@ comment:
     owner: "IceMoeMoe"
     admin: ["Android-KitKat", "shakugannosaints"]
   twikoo:
-    envId: ""
-    region: ""
+    envId: "moe-9gfudvy9da126e1c"
+    region: "ap-shanghai"
     option: ""
 
 prism:
