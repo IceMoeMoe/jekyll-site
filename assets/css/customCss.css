@@ -16,3 +16,6 @@
 .twikoo {
     padding: 20px 30px;
 }
+.mdui-card {
+    overflow: visible !important;
+}
