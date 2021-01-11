@@ -32,7 +32,7 @@ sns_share: # SNS Share Switch
    telegram: true
 
 comment:
-  used: "gitalk" # disqus,livere,gitment,valine,gitalk
+  used: "gitalk" # disqus,livere,gitment,valine,gitalk,twikoo
   # disqus config
   disqus_shortname: "lxh-wxdt" # Your disqus 
   disqus_button: true # disqus load button
@@ -58,6 +58,10 @@ comment:
     repo: "Gitalk-Data"
     owner: "IceMoeMoe"
     admin: ["Android-KitKat", "shakugannosaints"]
+  twikoo:
+    envId: ""
+    region: ""
+    option: ""
 
 prism:
   themes: prism-okaidia
