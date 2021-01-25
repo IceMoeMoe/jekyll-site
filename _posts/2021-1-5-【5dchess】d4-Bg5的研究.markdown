@@ -3,7 +3,7 @@ layout: post
 title: 【5dchess】d4-Bg5的研究
 date: 2021-1-5 1:13:44 +0800
 categories: Game
-tags: 5dchess 游戏
+tags: 5dchess 游戏 5dchess开局研究
 img: /assets/images/Utopia/5d-01.jpg
 describe: d4-Bg5的研究
 ---

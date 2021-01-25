@@ -3,7 +3,7 @@ layout: post
 title: 【5dchess】网络对局-2020-12-8
 date: 2020-12-8 17:27:39 +0800
 categories: Game
-tags: 5dchess 游戏 棋谱
+tags: 5dchess 游戏 5dchess棋谱
 img: /assets/images/Utopia/5d-01.jpg
 describe: 网络对局
 ---

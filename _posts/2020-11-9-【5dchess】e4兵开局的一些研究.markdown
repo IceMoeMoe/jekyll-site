@@ -3,7 +3,7 @@ layout: post
 title: 【5DCHESS】e4兵开局的研究
 date: 2020-11-9 17:12:39 +0800
 categories: Game
-tags: 5dchess 游戏
+tags: 5dchess 游戏 5dchess开局研究
 img: /assets/images/Utopia/5d-01.jpg
 describe: e4兵开局的研究
 ---
