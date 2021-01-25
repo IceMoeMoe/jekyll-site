@@ -14,7 +14,7 @@
   url: /pages/editor.html
   icon: "brush"
 - name: 关于我/留言板
-  url: /common/2020/10/22/%E6%8A%80%E6%9C%AF%E6%B5%8B%E8%AF%95-%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B.html
+  url: /common/2020/10/22/%E7%95%99%E8%A8%80%E6%9D%BF-%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B%E5%85%BC%E7%95%99%E8%A8%80%E6%9D%BF.html
   icon: "brush"
 - name: navSearch
   switch: true
