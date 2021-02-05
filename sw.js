@@ -1,3 +1,6 @@
+---
+layout: null
+---
 /* ===========================================================
  * sw.js
  * ===========================================================
@@ -13,23 +16,23 @@ const CACHE_NAMESPACE = 'main-'
 
 const CACHE = CACHE_NAMESPACE + 'precache-then-runtime';
 const PRECACHE_LIST = [
-  "./",
-  "./offline.html",
-  "./assets/js/History.js",
-  "./assets/js/snackbar.js",
-  "./assets/js/sw-registration.js",
-  "./assets/js/customJS.js",
-  "./assets/css/global.css",
-  "./assets/css/snackbar.less",
-  "./assets/css/customCss.css",
-  "./assets/images/touch/icon-128x128.png",
-  "./assets/images/touch/chrome-touch-icon-192x192.png",
-  "./assets/images/touch/ms-touch-icon-144x144-precomposed.png",
-  "./assets/images/touch/apple-touch-icon.png"
+  {% for page in site.pages %}
+    {% unless page.url contains 'projects' or page.url contains '404' %}
+      '{{ page.url }}',
+    {% endunless %}
+  {% endfor %}
+
+  {% for post in site.posts %}
+    '{{ post.url }}',
+  {% endfor %}
+
+  {% for file in site.static_files %}
+    '{{ file.path }}',
+  {% endfor %}
 ]
 const HOSTNAME_WHITELIST = [
   self.location.hostname,
-  "icemoe.moe"
+  'icemoe.moe'
 ]
 const DEPRECATED_CACHES = ['precache-v1', 'runtime', 'main-precache-v1', 'main-runtime']
 
