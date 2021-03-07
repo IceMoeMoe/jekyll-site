@@ -1,0 +1,52 @@
+---
+layout: post
+title: 【5dchess】5d chess残局练习2021-3-7
+date: 2021-3-7 21:48:56 +0800
+categories: Game
+tags: 5dchess 游戏 5dchess棋谱
+img: /assets/images/Utopia/5d-01.jpg
+describe: 残局练习
+---
+
+## 残局练习
+
+![9A__91___M6_72CD~_E4Y`Q.png](https://i.loli.net/2021/03/07/IAT3RnlSvt8Hxwi.png)
+
+请找出5D层面上的白棋最优着法（不考虑黑方穿越到盘面之前回合的情况）
+
+注意：图中箭头为2d引擎给出，不代表正解（实际上这一步会导致黑方一步杀）
+
+注意：参考错误答案是白棋的错误着法，会导致大劣势/被将杀。
+
+注意：参考正确答案并非确定的最优解。
+
+参考错误答案：
+
+一
+
+1.f4/Bxe3
+
+2.Nxe6/Rxf4
+
+3.Nxf4/Bxf4#
+
+二
+
+1.Ke2/Rxf2#
+
+三
+
+1.(0T1)N>>f4/(1T0)Rxf4
+
+2.(1T1)xf4/(1T1)Be1) (0T1)Rxf2
+
+3.(1T2)Rxe1 (0T2)Kxf2/(1T2)Rf8 (0T2)Rf8+
+
+4.随便走/随便用车将一军#
+
+不考虑之前回合情况（也即不考虑黑方穿越杀）的参考正确答案：
+
+1.Rg2/Bxe3
+
+2.Nxe6/Bf4
+
