@@ -1,0 +1,21 @@
+---
+layout: post
+title: 【5dchess】FD战术的首次正式使用-2021-3-22
+date: 2021-3-22 13:33:56 +0800
+categories: Game
+tags: 5dchess 游戏 5dchess棋谱
+img: /assets/images/Utopia/5d-01.jpg
+describe: 惊险刺激的一局棋
+---
+
+## 图片棋谱
+
+本次对局为：2021-3-22 网络选手（白）VS冷筱华（黑）的对局
+
+![1.png](https://i.loli.net/2021/03/22/2gGBdCLqz1axZkF.png)
+
+![2.png](https://i.loli.net/2021/03/22/fIowYsHpQ9UgC5X.png)
+
+经过一系列复杂的互相算杀后，黑棋最终凭借白棋的漏算赢得了游戏
+
+侥幸捡了一盘
