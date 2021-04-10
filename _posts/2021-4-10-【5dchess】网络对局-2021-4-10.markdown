@@ -1,0 +1,20 @@
+---
+layout: post
+title: 【5dchess】网络对局-2021-4-10
+date: 2021-4-10 12:47:55 +0800
+categories: Game
+tags: 5dchess 游戏 5dchess棋谱
+img: /assets/images/Utopia/5d-01.jpg
+describe: 一般.jpg
+---
+
+## 图片棋谱
+
+本次对局为：2021-3-22 冷筱华（白）VS网络选手（黑）的对局
+
+![20210410124447_1.jpg](https://i.loli.net/2021/04/10/FXcGDZ72RelvYmd.jpg)
+
+![20210410124452_1.jpg](https://i.loli.net/2021/04/10/CcweD7gdQoR5LnZ.jpg)
+
+
+
