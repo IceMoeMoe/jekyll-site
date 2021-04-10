@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【5dchess】FD战术的首次正式使用-2021-3-22
+title: 【5dchess】网络对局-2021-3-22
 date: 2021-3-22 13:33:56 +0800
 categories: Game
 tags: 5dchess 游戏 5dchess棋谱
