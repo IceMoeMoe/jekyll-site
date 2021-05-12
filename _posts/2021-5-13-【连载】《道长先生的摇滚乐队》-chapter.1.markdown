@@ -4,7 +4,7 @@ title: 【连载】《道长先生的摇滚乐队》-Chapter.1
 date: 2021-5-13 00:02:14 +0800
 categories: Novel
 tags: 连载 小说 道长先生的摇滚乐队 幻想
-img: /assets/images/Utopia/everspace.jpg
+img: https://p1.ssl.qhimg.com/dmsmty/1080_747_/t01b4571e67557ce061.jpg
 ---
 ## 1.道长先生的弈棋之道
 
