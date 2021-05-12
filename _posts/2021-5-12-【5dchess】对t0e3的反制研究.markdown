@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【5dchess】网络对局-2021-5-12
+title: 【5dchess】对t0e3的反制研究
 date: 2021-5-12 17:30:55 +0800
 categories: Game
 tags: 5dchess 游戏 5dchess研究
