@@ -1,0 +1,45 @@
+---
+layout: post
+title: 【5dchess】网络对局-2021-5-12
+date: 2021-5-12 17:30:55 +0800
+categories: Game
+tags: 5dchess 游戏 5dchess研究
+img: /assets/images/Utopia/5d-01.jpg
+describe: 无法反制
+---
+
+## 研究内容与结果
+
+结论：T0e3是无法被黑棋以几乎任何方式反制的。e6是一个绝对错误且几乎必败的分支，因此不予讨论。只讨论Nf6开局并试图攻击白棋f2的情况。
+
+**以下为失败案例：**
+
+![失败01.png](https://i.loli.net/2021/05/12/wTAnr9eR8CJVduF.png)
+
+![失败00.png](https://i.loli.net/2021/05/12/NM5Csn9ETKFcHSL.png)
+
+![失败04.png](https://i.loli.net/2021/05/12/TBx2tXkCrqLG4iz.png)
+
+![失败06.png](https://i.loli.net/2021/05/12/lnwy45qUWbhMgxj.png)
+
+![失败02.png](https://i.loli.net/2021/05/12/i7t51PxIWqbsUSm.png)
+
+![失败05.png](https://i.loli.net/2021/05/12/qHSi1UWcPev3zdh.png)
+
+![失败03.png](https://i.loli.net/2021/05/12/G72kVT5uwvm8LnP.png)
+
+![失败07.png](https://i.loli.net/2021/05/12/8ixZbM19I5geTK4.png)
+
+**以下为错误案例**
+
+错误：意为“看起来成功但其实是因为白棋走错了”
+
+因为很容易看出来错在哪，所以就不一一指出了。
+
+![错误04（参考失败07）.png](https://i.loli.net/2021/05/12/dDguj7OMl3ckQbs.png)
+
+![错误03.png](https://i.loli.net/2021/05/12/bAcu6ZLKXFBnx4r.png)
+
+![错误01（参考失败00）.png](https://i.loli.net/2021/05/12/XCOsSc3MxLHnE5W.png)
+
+![错误02（参考失败04）.png](https://i.loli.net/2021/05/12/49H6KapxeDzE2sV.png)
